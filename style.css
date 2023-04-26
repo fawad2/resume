@@ -26,6 +26,7 @@ body {
 
 .font-ram {
     font: normal bold 18px var(--font-ram);
+    
 }
 
 .font-size-40 {
@@ -46,6 +47,7 @@ body {
 
 .font-size-16 {
     font-size: 16px;
+    
 }
 
 .bgcolor-black {
